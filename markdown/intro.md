@@ -5,26 +5,34 @@
 </div>
 
 <div class="presenter">
+    <h3 class="name">Pranav Salunke</h3>
+    <h3 class="job-title">SUSE Cloud Enginner</h3>
+    <h3 class="email"><a href="mailto:dguitarbite@gmail.com">dguitarbite@gmail.com</a></h3>
+</div>
+
+<div class="presenter">
     <h3 class="name">Firstname Lastname</h3>
     <h3 class="job-title">Job Title</h3>
     <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
 </div>
 
+<div class="presenter">
+    <h3 class="name">Firstname Lastname</h3>
+    <h3 class="job-title">Job Title</h3>
+    <h3 class="email"><a href="mailto:firstname.lastname@suse.com">firstname.lastname@suse.com</a></h3>
+</div>
 
 <!-- .slide: data-state="normal" id="agenda" -->
-## Agenda
+## Introduction
 
-Welcome to the [`reveal.js`](https://github.com/hakimel/reveal.js/)
-version of the guidelines and template for SUSE presentations.
-It contains the following slides (you can also press `m` at any
-time to reveal a navigation menu):
 
-*   Design goals
-*   Color Palette
-*   Sample section header / break page
-    *   Standard slide with nested lists
-    *   Editorial Guidelines
-    *   Code syntax highlighting
-*   Q & A slide
-    *    Logo slides
-    *    License
+### Who are we?
+
+* Pranav Salunke: Training Labs
+* Adam Spiers: HA Project
+* Dirk Muller: RPM Project
+
+### What's unique?
+
+* Creating a project which is not the hot topic should be encouraged.
+* More on this ...
